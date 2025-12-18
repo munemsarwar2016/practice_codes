@@ -5,7 +5,7 @@ num_of_input = int(input("How many strings we want to concatenate? ")) #user inp
 result=""  #initializing empty string
 
 for i in range(num_of_input):
-    user_input = input(f"Enter String {i+1}: ") #user input from terminal
+    user_input = input(f"Enter String : ") #user input from terminal
     result += user_input #concatenation of the strings
 
 
