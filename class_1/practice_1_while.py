@@ -25,4 +25,4 @@ print("The result is : ", result)
 
 For for loop line 7 to 9 difference between 
 
-for while loop line 12 to 17 difference between"""
+for while loop line 12 to 17 difference between"""     
